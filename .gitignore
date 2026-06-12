@@ -1,0 +1,8 @@
+# Mengabaikan folder hasil ekstraksi uji coba
+TUGAS_1/poin_2/ekstrak_hasil/
+
+# Mengabaikan file virtual disk
+*.img
+
+# Mengabaikan file hasil kompresi backup
+*.tar.gz
